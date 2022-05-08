@@ -11,3 +11,4 @@ These ideas may be great or utterly bad.
   * Only functions to do math operations
   * Conversion to basic Gleam types: from_float/from_int and to_float/to_int (all return Results)
 * List builder which can always be used for optimal performance and abstracts away list prepend/reverse
+* Add reduce alias (to fold?)
