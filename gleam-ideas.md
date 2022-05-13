@@ -1,4 +1,4 @@
-# Gleam Ideas
+# Gleam Lib Ideas
 
 This is a document of ideas for the Gleam language that where to awkward or rejected for other reasons.
 
